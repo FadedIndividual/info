@@ -1,2 +1,2 @@
 # discord
-https://discord.com/invite/rnHaKB3Tjr
+https://discord.gg/XGx7tRhZGe
