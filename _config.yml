@@ -1,5 +1,0 @@
-theme: minima
-
-minima:
-  custom_css:
-    - /assets/css/custom.css
