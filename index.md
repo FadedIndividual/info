@@ -6,7 +6,7 @@ https://discord.gg/WCN68rZdX2
 
 mortem:
 ```
-loadstring(game:HttpGet("https://raw.githubusercontent.com/FadedIndividual/random/refs/heads/main/MORTEM-obfuscated.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FadedIndividual/random/refs/heads/main/Mortem%20Metallum.lua"))()
 ```
 
 miners-haven:
