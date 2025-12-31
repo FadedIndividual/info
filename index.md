@@ -1,7 +1,3 @@
-Join the discord!
-https://discord.gg/WCN68rZdX2
-
-
 # Scripts
 
 mortem:
